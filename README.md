@@ -73,6 +73,7 @@ Repositório com exercícios práticos de Python desenvolvidos durante as aulas.
  ┃ ┣ 📂Aula_13
  ┃ ┃ ┣ 📜atividade.ipynb
  ┃ ┃ ┣ 📜aula13.ipynb
+ ┃ ┃ ┣ 📜seaborn.ipynb
  ┃ ┃ ┣ 📜tips.csv
  ┃ ┃ ┗ 📜titanic.csv
  ┃ ┗ 📂Aula_14
