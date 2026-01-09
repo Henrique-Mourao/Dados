@@ -4,14 +4,81 @@ Repositório com exercícios práticos de Python desenvolvidos durante as aulas.
 
 ## 📁 Estrutura do Projeto
 ```
-PyCharmMiscProject/
-└── 📁 Aulas_Exercicios/
-    ├── 📁 Semana_1/
-    │   ├── 🐍 Cadastro_pessoa.py      — Exercício: cadastro de pessoas  
-    │   ├── 🐍 Cadastro_valor.py       — Exercício: cadastro de valores  
-    │   ├── 🐍 Descriptografar.py      — Exercício: descriptografia  
-    │   ├── 🐍 Validador_de_moeda.py   — Exercício: validador de formato de moeda  
-    │   ├── 🐍 Socket.py               — Exemplo de uso de sockets  
-    │   └── 📄 cotacoes.csv            — Arquivo de dados com cotações  
-    └── 🐍 LEC.py                      — Lista de exercícios consolidada
+📦Python
+ ┣ 📂Codigs
+ ┃ ┣ 📜carteira_multipla.ipynb
+ ┃ ┗ 📜moeda_consulta.ipynb
+ ┣ 📂dataset
+ ┃ ┣ 📜Aposentados.csv
+ ┃ ┣ 📜card_transdata.csv
+ ┃ ┣ 📜Devedores.csv
+ ┃ ┣ 📜netflix_titles.csv
+ ┃ ┗ 📜vendas_varejo.csv
+ ┣ 📂Semana_1
+ ┃ ┣ 📂Aula_1
+ ┃ ┃ ┣ 📜cadastro_conta_corrente.ipynb
+ ┃ ┃ ┣ 📜cadastro_pessoa.py
+ ┃ ┃ ┣ 📜cadastro_valor.py
+ ┃ ┃ ┣ 📜exemplo.ipynb
+ ┃ ┃ ┗ 📜tipos.ipynb
+ ┃ ┗ 📂Aula_2
+ ┃ ┃ ┣ 📂robo
+ ┃ ┃ ┃ ┣ 📜cotacoes.csv
+ ┃ ┃ ┃ ┣ 📜robo_cotador.py
+ ┃ ┃ ┃ ┗ 📜robo_usd.ipynb
+ ┃ ┃ ┣ 📜calculadora_cripto.ipynb
+ ┃ ┃ ┗ 📜validador_de_moeda.py
+ ┣ 📂Semana_2
+ ┃ ┣ 📂Aula_3
+ ┃ ┃ ┣ 📜descriptografar.py
+ ┃ ┃ ┣ 📜ferramentas.ipynb
+ ┃ ┃ ┗ 📜socket.py
+ ┃ ┣ 📂Aula_4
+ ┃ ┃ ┣ 📜aposentado.ipynb
+ ┃ ┃ ┣ 📜aposentados_devedores_consulta.ipynb
+ ┃ ┃ ┣ 📜ferramentas-checkpoint.ipynb
+ ┃ ┃ ┗ 📜salvar.csv
+ ┃ ┣ 📂Aula_6
+ ┃ ┃ ┗ 📜jinja.ipynb
+ ┃ ┣ 📂Aula_7
+ ┃ ┃ ┗ 📜numpy.ipynb
+ ┃ ┗ 📂Aula_8
+ ┃ ┃ ┣ 📜medicamentos.ipynb
+ ┃ ┃ ┣ 📜medicamentos_limpo.csv
+ ┃ ┃ ┣ 📜medicamentos_tratamento.ipynb
+ ┃ ┃ ┗ 📜xls_conformidade_site.xlsx
+ ┣ 📂Semana_3
+ ┃ ┣ 📂Aula_10
+ ┃ ┃ ┣ 📂medicamentos
+ ┃ ┃ ┃ ┣ 📜medicamentos_limpo.csv
+ ┃ ┃ ┃ ┗ 📜precos_consumidor.ipynb
+ ┃ ┃ ┗ 📂ml-100k
+ ┃ ┣ 📂Aula_11
+ ┃ ┃ ┗ 📂medicamentos
+ ┃ ┃ ┃ ┣ 📜2021.xls
+ ┃ ┃ ┃ ┣ 📜2022.xls
+ ┃ ┃ ┃ ┣ 📜2023.xls
+ ┃ ┃ ┃ ┣ 📜2024.xls
+ ┃ ┃ ┃ ┣ 📜historico_medicamentos.csv
+ ┃ ┃ ┃ ┣ 📜medicamentos_limpo.csv
+ ┃ ┃ ┃ ┣ 📜precos_consumidor.ipynb
+ ┃ ┃ ┃ ┣ 📜precos_consumidor_historico.ipynb
+ ┃ ┃ ┃ ┗ 📜xls_conformidade_site_20251208_170820642.xlsx
+ ┃ ┗ 📂Aula_9
+ ┃ ┃ ┗ 📜qa_medicamentos.ipynb
+ ┣ 📂Semana_4
+ ┃ ┣ 📂Aula_12
+ ┃ ┃ ┣ 📜aula12.ipynb
+ ┃ ┃ ┗ 📜ex.ipynb
+ ┃ ┣ 📂Aula_13
+ ┃ ┃ ┣ 📜atividade.ipynb
+ ┃ ┃ ┣ 📜aula13.ipynb
+ ┃ ┃ ┣ 📜tips.csv
+ ┃ ┃ ┗ 📜titanic.csv
+ ┃ ┗ 📂Aula_14
+ ┃ ┃ ┣ 📜aula14.ipynb
+ ┃ ┃ ┣ 📜df_geo.csv
+ ┃ ┃ ┣ 📜df_vendas_br.csv
+ ┃ ┃ ┗ 📜mapa_brasil.png
+ ┗ 📜README.md
 ```
