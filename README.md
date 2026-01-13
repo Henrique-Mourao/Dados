@@ -79,7 +79,27 @@ Repositório com exercícios práticos de Python desenvolvidos durante as aulas.
  ┃ ┗ 📂Aula_14
  ┃ ┃ ┣ 📜aula14.ipynb
  ┃ ┃ ┣ 📜df_geo.csv
- ┃ ┃ ┣ 📜df_vendas_br.csv
  ┃ ┃ ┗ 📜mapa_brasil.png
+ ┃ ┣ 📂Aula_14
+ ┃ ┃ ┣ 📜aula14.ipynb
+ ┃ ┃ ┣ 📜df_geo.csv
+ ┃ ┃ ┗ 📜mapa_brasil.png
+ ┃ ┗ 📂Aula_15
+ ┃ ┃ ┣ 📜dados.html
+ ┃ ┃ ┣ 📜dados_bolsa.csv
+ ┃ ┃ ┣ 📜dados_rh.csv
+ ┃ ┃ ┣ 📜df_geo.csv
+ ┃ ┃ ┣ 📜df_mapa.csv
+ ┃ ┃ ┣ 📜df_vendas_br.csv
+ ┃ ┃ ┣ 📜geo.ipynb
+ ┃ ┃ ┣ 📜interact.ipynb
+ ┃ ┃ ┣ 📜mapa_brasil.png
+ ┃ ┃ ┗ 📜relatorio_vendas_interativo.html
+ ┣ 📂Semana_5
+ ┃ ┣ 📂Aula_16
+ ┃ ┃ ┣ 📜escola_ingles.db
+ ┃ ┃ ┣ 📜sql.ipynb
+ ┃ ┃ ┗ 📜tabelas_sql.ipynb
+ ┃ ┗ 📂Aula_17
  ┗ 📜README.md
 ```
