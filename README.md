@@ -101,5 +101,9 @@ Repositório com exercícios práticos de Python desenvolvidos durante as aulas.
  ┃ ┃ ┣ 📜sql.ipynb
  ┃ ┃ ┗ 📜tabelas_sql.ipynb
  ┃ ┗ 📂Aula_17
+ ┃ ┃ ┣ 📜sql_exercicio.ipynb
+ ┃ ┗ 📂Aula_20
+ ┃ ┃ ┣ 📜
+
  ┗ 📜README.md
 ```
