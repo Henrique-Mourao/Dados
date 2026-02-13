@@ -1,0 +1,18 @@
+services:
+  postgres_container:
+    image: postgres:15
+    environment:
+      POSTGRES_PASSWORD: senha123
+    ports:
+      - "5432:5432"
+
+  trino_container:
+    image: trinodb/trino:latest
+    ports:
+      - "8080:8080" #porta padrao do Trino
+    volumes:
+      - ./catalog:/etc/trino/catalog
+    depends_on:
+      - postgres_container #so comeca depois de banco Posrgres estar vivo
+
+#comando pra rodas: docker-compose -f docker-compose.yaml up -d
